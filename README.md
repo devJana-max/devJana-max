@@ -1,91 +1,97 @@
-<div align="center" width="50">
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
+# 👩‍💻 Jana Naguib | J_N
 
+🔐 **Cyber Security Student** passionate about **Ethical Hacking**, **Penetration Testing**, and **Security Research**.  
+I enjoy exploring **Linux**, analyzing **Network Traffic**, and working with **Cyber Security Tools**.
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
-<h1>J_N</h1>
-<h3>Student | CyberSecurity Engineer | Programmer | Purple hat | Ethical hacker</h3>
+---
+
+* 🔐 Interested in Cyber Security & Ethical Hacking  
+* 🐧 Linux & Security Tools Enthusiast  
+* 🌐 Interested in Networking & Penetration Testing  
+* 🌱 Currently learning Penetration Testing & Network Security  
+* 💻 Programming and Security Research  
+* ⛵ Open to collaboration in Cyber Security Projects  
+
 <details>
-<p><strong> <summary>  J_N | Cyber Security Journey 🔐   </summary> </strong></p>
+  <summary>More Details About Me 🔐</summary>
+  <br>
 
-Cyber Security • Ethical Hacking • Kali Linux • Networking • Penetration Testing
+* 🔐 Cyber Security Student — Computer Science & AI  
+* 🔍 Interested in Vulnerability Assessment  
+* ⚡ Learning System & Network Security  
+* 🧠 Exploring Security Concepts  
+* 🚀 Always Learning & Improving  
 
 </details>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYOUR_USERNAME&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+---
 
-</div>
+# 🔐 Cyber Security Tools
 
-<hr></hr>
+<p align="center">
 
-# 👩‍💻 Jana Naguib
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Metasploit-2596be?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+<img src="https://img.shields.io/badge/John_the_Ripper-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hydra-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Aircrack--ng-grey?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Netcat-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nikto-darkgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gobuster-orange?style=for-the-badge"/>
 
-### 🔐 Cyber Security Student | Computer Science & Artificial Intelligence
+</p>
 
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="15%" />
+---
 
-- 🔐 Passionate about **Cyber Security & Ethical Hacking**
-- 🐧 Linux & Security Tools Enthusiast
-- 💻 Programming & Security Research
-- 🌐 Interested in Networking & Penetration Testing
-- 🚀 Always Learning New Security Concepts
+# 💻 Programming Languages
 
-<hr></hr>
+<p align="center">
 
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Cyber%20Security%20Tools-orange)
-![semicolon](https://img.shields.io/badge/-%3A-orange)
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3"/>
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+</p>
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596be?style=flat)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat&logo=owasp&logoColor=white)
+---
 
-![Networking](https://img.shields.io/badge/Networking-00599C?style=flat)
-![Cyber Security](https://img.shields.io/badge/Cyber_Security-red?style=flat)
+# 🐧 Platforms & Technologies
 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+<p align="center">
 
-```python
-class JanaNaguib():
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux"/>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode"/>
 
-    def __init__(self):
-        self.name = "Jana Naguib"
-        self.role = "Cyber Security Student"
+</p>
 
-        self.interests = [
-            "Cyber Security",
-            "Ethical Hacking",
-            "Penetration Testing",
-            "Networking",
-            "Linux"
-        ]
+---
 
-        self.languages = [
-            "Python",
-            "C++",
-            "C",
-            "Bash"
-        ]
+# 📊 GitHub Stats
 
-        self.tools = [
-            "Kali Linux",
-            "Wireshark",
-            "Nmap",
-            "Burp Suite",
-            "Metasploit",
-            "Git"
-        ]
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
 
-    def say_hi(self):
-        print("Welcome to my Cyber Security GitHub 🔐")
+---
+
+<p align="center">
+  <i>Cyber Security Journey — J_N 🔐</i>
+</p>
+
+<p align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME"/>       
+</p>
