@@ -5,6 +5,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 <h1>J_N</h1>
+<h3>Student|CyberSecurity Engineer|Programmer|Purple hat|Ethical hacker</h3>
 <details>
 <p><strong> <summary>  J_N | Cyber Security Journey 🔐   </summary> </strong></p>
 
